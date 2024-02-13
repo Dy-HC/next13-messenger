@@ -62,7 +62,7 @@ const Form = () => {
       <CldUploadButton 
         options={{ maxFiles: 1 }} 
         onUpload={handleUpload} 
-        uploadPreset="hk0d2fdw"
+        uploadPreset="c036pptu"
       >
         <HiPhoto size={30} className="text-sky-500" />
       </CldUploadButton>
